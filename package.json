@@ -1,0 +1,11 @@
+{
+  "name": "nvim",
+  "version": "1.0.0",
+  "description": "config nvim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MayRell",
+  "license": "ISC"
+}
