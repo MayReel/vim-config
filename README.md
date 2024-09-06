@@ -1,4 +1,16 @@
-# Neovim Configuration
+## About This Repository
+
+This repository contains a customizable Neovim configuration designed to enhance development productivity. It includes a curated set of plugins for features like code completion, syntax highlighting, file navigation, multiple cursors, and more.
+
+### Key Features:
+- **Plugin Management**: Uses vim-plug for easy plugin installation and management.
+- **COC Integration**: Includes [COC.vim](https://github.com/neoclide/coc.nvim) for powerful code completion and language server protocol (LSP) support.
+- **UI Customizations**: Neat status bar, color schemes, and file icons for a polished look and feel.
+- **Development Utilities**: Support for PostgreSQL, CSS color preview, multiple cursors, and sudo file writing.
+
+Follow the setup guide in the README to get started with your own Neovim environment.
+
+## Neovim Configuration
 
 This guide provides instructions for setting up Neovim using vim-plug for plugin management. Follow the steps below to install and configure Neovim along with several useful plugins.
 
